@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@mikro-orm/core": "^5.6.16",
+    "@mikro-orm/postgresql": "^5.6.16",
+    "nanoid": "3"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.11",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  },
+  "mikro-orm": {
+    "useTsNode": true
+  }
+}
